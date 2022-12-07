@@ -1,0 +1,8 @@
+.site-card-border-less-wrapper {
+    margin-top: 150px;
+}
+
+.row-forgot-password {
+    display: flex;
+    justify-content: space-between;
+}
